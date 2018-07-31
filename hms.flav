@@ -13,4 +13,4 @@
 ;----------// Stylesheets
 
  css[] = hms.css
- ;scripts[] = js/hms.js
+ scripts[] = hms.js
