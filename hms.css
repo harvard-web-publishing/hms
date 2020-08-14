@@ -170,7 +170,7 @@ a.follow-icon {
 	transition: height 0.4s ease-in-out;
 	z-index: 0;
 }
-.not-front .block-boxes.block-boxes-os_boxes_html .boxes-box-content:before {
+.not-front .block-boxes.block-boxes-os_boxes_html .boxes-box-content h2:before {
 	content: '';
 	height: 4px;
 	background: #1e1e1e;
