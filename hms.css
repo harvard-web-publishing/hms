@@ -421,7 +421,7 @@ h1#page-title {
 	top: 0;
 	z-index: 1;
 	width: 100%;
-	max-height: inherit;
+	max-height: 650px;
 }
 .front .region-content-top h2.block-title {
 	text-transform: none;
